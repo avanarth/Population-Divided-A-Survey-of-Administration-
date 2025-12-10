@@ -316,8 +316,8 @@ A chart of information from Geonames.org, cleaned with pandas, manually copied t
 | Kenya     | 51393010   | 7                     |       582650       |     47     --|
 | Argentina | 44494502   | 2                     |       2766890      |     23(22+1)-|
 | Thailand  | 69428524   | 8(Siamese/Khmer)      |       514000       |     77(76+1)-|
-
+47/7=6.71_23/2=11.5_77/8=9.62_5139310/47=1093468.29_44494502/23=1934543.57_69428524/77=901669.14
 * * * 
-
 ## Conclusions 
 
+There seems to be no correlation between ethnicty and admin divisions, nor admin divisions and total population or sqaure mileage.
