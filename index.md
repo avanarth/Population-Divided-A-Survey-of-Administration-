@@ -314,7 +314,7 @@ A chart of information from Geonames.org, cleaned with pandas, manually copied t
 | Country   | Total Pop  | Number of Major Ethnic Groups | Sqaure Area[km^2]   | Number of Admin Divisons | 
 |:---------:|:----------:|:-----------------------------:|:-------------------:|:------------------------:|
 | Kenya     | 51393010   |                               |       582650        |         47               |
-| Argentina | 44494502   | nice                          |       2766890       |         23(22+1)         |
+| Argentina | 44494502   |                          |       2766890       |         23(22+1)         |
 | Thailand  | 69428524   |                               |       514000        |         77(76+1)         |
 
 * * * 
