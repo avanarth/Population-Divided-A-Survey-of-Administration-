@@ -12,7 +12,7 @@ Before I began working on this project, I proposed a hypothesis that the number 
 
 ## Explaining Terms
 
-Before we get into the data and case study countries I will be defining terms. In this project, "highest-level administrative divisions" refers to the largest administrative divisions in a nation that holds self-governing powers. For a country such as Kenya, with a somewhat devolved/decentralized government, this refers to the 47 counties. In regards to 'major ethnic groups', this project will define a major ethnic group as an ethnic group which consists of at least 2% of the total population of the nation I am examining.
+Before we get into the data and case study countries I will be defining terms. In this project, "highest-level administrative divisions" refers to the largest administrative divisions in a nation that holds self-governing powers. For a country such as Kenya, with a somewhat devolved/decentralized government, this refers to the 47 counties. In regards to 'major ethnic groups', this project will define a major ethnic group as an ethnic group which consists of at least ~2% of the total population of the nation I am examining.
 
 ![The 47 Counties](Kenya_County_Map.jpg)
 
@@ -311,11 +311,11 @@ A chart of information from Geonames.org, cleaned with pandas, manually copied t
 
 ### The Informal List  
 
-| Country   | Total Pop  | Number of Major Ethnic Groups | Sqaure Area[km^2]   | Number of Admin Divisons | 
-|:---------:|:----------:|:-----------------------------:|:-------------------:|:------------------------:|
-| Kenya     | 51393010   |                               |       582650        |         47               |
-| Argentina | 44494502   |                          |       2766890       |         23(22+1)         |
-| Thailand  | 69428524   |                               |       514000        |         77(76+1)         |
+| Country   | Total Pop  | # Major Ethnic Groups | Sqaure Area[km^2]   |  Admin Divisons | 
+|:---------:|:----------:|:-----------------------------:|:-----------:|:----------------:|
+| Kenya     | 51393010   |                         |       582650        |         47     |
+| Argentina | 44494502   |                         |       2766890       |         23(22+1)jj|
+| Thailand  | 69428524   | 8(Siamese/Khmer)        |       514000        |         77(76+1)         |
 
 * * * 
 
