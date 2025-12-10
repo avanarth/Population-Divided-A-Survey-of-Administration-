@@ -313,9 +313,9 @@ s
 
 | Country      | Total Population  | Number of Major Ethnic Groups | Sqaure Area[km^2]   |
 |:-------------|:------------------|:------------------------------|:--------------------|
-| Kenya        | 51393010          |                               |          582650     |
-| Argentina    | good and plenty   | nice                          |                     |
-| Thailand     |  69428524         |                               |      514000         | 
+| Kenya        | 51393010          |                               |       582650        |
+| Argentina    | good and plenty   | nice                          |       2766890       |
+| Thailand     | 69428524          |                               |       514000        | 
 
 ### There's a horizontal rule below this.
 
