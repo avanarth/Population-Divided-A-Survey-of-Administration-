@@ -18,7 +18,7 @@ Before I began working on this project, I proposed a hypothesis that the number 
 
 Before we get into the data and case study countries I will be defining terms. In this project, "highest-level administrative divisions" refers to the largest administrative divisions in a nation that holds self-governing powers. For a country such as Kenya, with a somewhat devolved/decentralized government, this refers to the 47 counties. 
 
-![Complete Map of the 47 Counties of Kenya ](Kenya County Map.jpg)
+![The 47 Counties](Kenya_CountyMap_.jpg)
 
 ### Header 3
 
