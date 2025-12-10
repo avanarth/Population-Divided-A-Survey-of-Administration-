@@ -320,6 +320,3 @@ s
 ### There's a horizontal rule below this.
 
 * * *
-
-
-[def]: https://www.geonames.org/countries/
