@@ -25,7 +25,13 @@ Before we get into the data and case study countries I will be defining terms. I
 h
 
 ### Argentina 
-![]
+![Argentina's 22 counties and One Capital](Argentina_Admin.png)
+r
+
+### Thailand 
+![Thailand's 76 provinces and One Capital](Thai_Admin.png)
+s
+
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
