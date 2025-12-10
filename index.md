@@ -20,7 +20,7 @@ Before we get into the data and case study countries I will be defining terms. I
 
 I first began writing the code to this project by using pandas to create three API calls which brought back the total list of Admin Divisions for the country I called based on  the two-digit ISO-3166 code for the nation. The html the API call takes from looks like this, using Kenya as an example ![](https://rawcdn.githack.com/kamikazechaser/administrative-divisions-db/master/api/KE.json). The Administrative Divisons API I used for the begining section of the project come from Geonames.org. 
 
-![](https://www.geonames.org/countries/) 
+![][def] 
 
 When formated into a dataframe, the data is formated like this: 
 
@@ -320,3 +320,6 @@ s
 ### There's a horizontal rule below this.
 
 * * *
+
+
+[def]: https://www.geonames.org/countries/
