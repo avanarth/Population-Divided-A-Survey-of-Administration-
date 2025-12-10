@@ -20,8 +20,12 @@ Before we get into the data and case study countries I will be defining terms. I
 
 ![The 47 Counties](Kenya_County_Map.jpg)
 
-### Header 3
+### Kenya 
 
+h
+
+### Argentina 
+![]
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
@@ -36,7 +40,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-###### Header 6
+### Header 6
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
