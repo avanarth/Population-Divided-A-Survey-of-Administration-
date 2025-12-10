@@ -2,23 +2,23 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Welcome! You have arrived at Population Divided: An Admin Survey.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+The purpose of this project is to try to figure out weather there is a causal relationship between the number of highest-level administrative divisons in a particular nation-state and other common nation statstics, such as total population, number of major ethnic groups, or sqaure area.  For this project, I have chosen three countries: Kenya, Thailand, and Argentina. The countries are all on different continents 
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Hypothesis 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Before I began working on this project, I proposed a hypothesis that the number of highest-level administrative divisions in a nation is directly scaleable to either the total population or the number of major ethnic groups. 
 
-## Header 2
+## Explaining Terms
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Before we get into the data and case study countries I will be defining terms. In this project, "highest-level administrative divisions" refers to the largest administrative divisions in a nation that holds self-governing powers. For a country such as Kenya, with a somewhat devolved/decentralized government, this refers to the 47 counties. 
+
+![Complete Map of the 47 Counties of Kenya ](Kenya County Map.jpg)
 
 ### Header 3
 
@@ -36,19 +36,6 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
 ###### Header 6
 
 | head1        | head two          | three |
@@ -76,27 +63,6 @@ end
 1.  Item three
 1.  Item four
 
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
