@@ -311,11 +311,11 @@ A chart of information from Geonames.org, cleaned with pandas, manually copied t
 
 ### The Informal List  
 
-| Country   | Total Pop  | # Major Ethnic Groups | Sqaure Area[km^2]   |  Admin Divisons | 
-|:---------:|:----------:|:-----------------------------:|:-----------:|:----------------:|
-| Kenya     | 51393010   |                         |       582650        |         47     |
-| Argentina | 44494502   |                         |       2766890       |         23(22+1)jj|
-| Thailand  | 69428524   | 8(Siamese/Khmer)        |       514000        |         77(76+1)         |
+| Country   | Total Pop  | # Major Ethnic Groups | Sqaure Area[km^2]  |Admin Divisons| 
+|:---------:|:----------:|:---------------------:|:------------------:|:------------:|
+| Kenya     | 51393010   | 7                     |       582650       |     47     --|
+| Argentina | 44494502   | 2                     |       2766890      |     23(22+1)-|
+| Thailand  | 69428524   | 8(Siamese/Khmer)      |       514000       |     77(76+1)-|
 
 * * * 
 
